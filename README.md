@@ -13,6 +13,6 @@ O processo envolveu o envio da foto base, definição de parâmetros como estilo
 ## 🚀 Resultados
 O resultado foi um video de alguns segundos com definição e credibilidade.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 O uso de fotos para gerar vídeos com IA pode ampliar possibilidades criativas e educacionais, permitindo visualizações dinâmicas a partir de imagens estáticas.
 Quando usado com consentimento e ética, contribui para produções artísticas, treinamentos e conteúdos acessíveis de forma inovadora..
